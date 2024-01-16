@@ -14,3 +14,6 @@ Simple script to turn the active fan control on and off upon installation to ver
 
 ## Turn the fan off
     ./fan_control.sh off
+
+## Check current fan status 
+    ./fan)control.sh status
